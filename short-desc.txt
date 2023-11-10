@@ -1,0 +1,1 @@
+View real-time data form the device's GPS system. View location on OpenStreetMap.

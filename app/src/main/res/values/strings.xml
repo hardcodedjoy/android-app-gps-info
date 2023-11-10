@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPS Info</string>
+    <string name="text_permissions_ganted">Permissions granted.</string>
+</resources>

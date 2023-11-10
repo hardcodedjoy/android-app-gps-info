@@ -1,0 +1,1 @@
+This app reads the location data from the device's GPS system and displays the satellite count, latitude, longitude, accuracy, altitude and speed. It also displays your current location on OpenStreetMap.
